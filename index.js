@@ -39,3 +39,9 @@ app.get('/news/:id', (req, res) => {
 app.listen(port, () => {
     console.log('Dragon News Server running on port', port);
 })
+
+// https://dragon-news-server-one-beryl.vercel.app
+
+// https://dragon-news-99527.web.app/
+
+// https://dragon-news-server-one-beryl.vercel.app
